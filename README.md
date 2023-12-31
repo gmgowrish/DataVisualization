@@ -26,4 +26,4 @@ Data visualization is the graphical representation of data to gain insights and 
     Consistency: Maintain a consistent style throughout visualizations for a cohesive presentation.
 
 
-## Data visualization is a powerful tool for both exploring and presenting data. The choice of visualization techniques depends on the nature of the data and the insights you want to convey to your audience.
+### Data visualization is a powerful tool for both exploring and presenting data. The choice of visualization techniques depends on the nature of the data and the insights you want to convey to your audience.
